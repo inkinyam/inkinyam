@@ -1,11 +1,11 @@
-## Привет 👋, меня зовут Наталья
+# Привет 👋, меня зовут Наталья
 ### Я начинающий front-end разработчик
 <img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e47jjum9i5qcx0wao85qsjndvhbg7ob1aioadot7m93&rid=giphy.gif&ct=g" alt="привет" height = "250">
 
 **Считаю, что главное - разбираться в том, что ты пишешь!**
 
 ## Skills:
-<img src="./img/javascript.svg" alt="JS" width = "40"> / <img src="./img/html5.svg" alt="HTML5" width = "40"> / <img src="./img/css3.svg" alt="CSS3" width = "40"> / <img src="./img/figma.svg" alt="Figma" width = "40"> / <img src="./img/webpack.svg" alt="webpack" width = "40">
+<img src="./img/javascript.svg" alt="JS" width = "40"> <img src="./img/html5.svg" alt="HTML5" width = "40"> <img src="./img/css3.svg" alt="CSS3" width = "40"> <img src="./img/figma.svg" alt="Figma" width = "40"> <img src="./img/webpack.svg" alt="webpack" width = "40">
 
 - 🔭 На данный момент работаю над: [проектом "Место"](https://inkinyam.github.io/mesto/)
 - 🌱 Сейчас изучаю: Асинхронное программирование
