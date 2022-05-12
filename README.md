@@ -4,10 +4,10 @@
 
 ### Мой стек:
 
-<img src="https://github.com/simple-icons/simple-icons/blob/0935b98d6b3791accd637d6a70b5fd3ec393711b/icons/javascript.svg" alt="JS" width = "40">
-<img src="https://github.com/simple-icons/simple-icons/blob/0935b98d6b3791accd637d6a70b5fd3ec393711b/icons/css3.svg" alt="CSS3" width = "40">
-<img src="https://github.com/simple-icons/simple-icons/blob/0935b98d6b3791accd637d6a70b5fd3ec393711b/icons/html5.svg" alt="HTML5" width = "40">
-<img src="https://github.com/simple-icons/simple-icons/blob/0935b98d6b3791accd637d6a70b5fd3ec393711b/icons/figma.svg" alt="Figma" width = "40">
+<img src="./img/javascript.svg" alt="JS" width = "40">
+<img src="./img/css3.svg" alt="CSS3" width = "40">
+<img src="./img/html5.svg" alt="HTML5" width = "40">
+<img src="./img/figma.svg" alt="Figma" width = "40">
 
 
 [Codewars](https://www.codewars.com/users/inkinyam/badges/small)
