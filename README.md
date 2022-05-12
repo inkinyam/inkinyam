@@ -4,10 +4,7 @@
 
 ### Мой стек:
 
-<img src="./img/javascript.svg" alt="JS" width = "40">
-<img src="./img/css3.svg" alt="CSS3" width = "40">
-<img src="./img/html5.svg" alt="HTML5" width = "40">
-<img src="./img/figma.svg" alt="Figma" width = "40">
+<img src="./img/javascript.svg" alt="JS" width = "40"> <img src="./img/css3.svg" alt="CSS3" width = "40"> <img src="./img/html5.svg" alt="HTML5" width = "40"> <img src="./img/figma.svg" alt="Figma" width = "40">
 
 
 [Codewars](https://www.codewars.com/users/inkinyam/badges/small)
