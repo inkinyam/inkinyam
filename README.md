@@ -8,7 +8,7 @@
 <img src="./img/javascript.svg" alt="JS" width = "40"> <img src="./img/html5.svg" alt="HTML5" width = "40"> <img src="./img/css3.svg" alt="CSS3" width = "40"> <img src="./img/figma.svg" alt="Figma" width = "40"> <img src="./img/webpack.svg" alt="webpack" width = "40">
 
 - 🔭 На данный момент работаю над: [проектом "Место"](https://inkinyam.github.io/mesto/)
-- 🌱 Сейчас изучаю: React, three.js
+- 🌱 Сейчас изучаю: React, three.js, node.js, express.js
 - ⚡ Забавный факт: Я катаюсь на сноуборде 15 лет
 
 ## Contact me:
