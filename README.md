@@ -8,9 +8,10 @@
 <img src="./img/javascript.svg" alt="JS" width = "40"> <img src="./img/html5.svg" alt="HTML5" width = "40"> <img src="./img/bem.svg" alt="bem" width = "40"> <img src="./img/css3.svg" alt="CSS3" width = "40"> <img src="./img/figma.svg" alt="Figma" width = "40"> <img src="./img/webpack.svg" alt="webpack" width = "40"> <img src="./img/react.svg" alt="react" width = "40"> <img src="./img/reactrouter.svg" alt="reactrouter" width = "40"> <img src="./img/mongodb.svg" alt="mongodb" width = "40">
 
 - 📝 Закончила курс "Веб программист" в Яндекс.Практикуме;
-- ⭐ На данный момент работаю над спецпроектами по обучению для Института Генплана Москвы [Стажировка](https://inkinyam.github.io/internship-pages/) и [ДПО](https://inkinyam.github.io/education/);
-- 🐣 Разработала и поддерживаю [проект](https://p-automation.ru/) для друзей;
-- 🌱 Сейчас активно изучаю: React, three.js, GSAP;
+- ⭐ Разработкала два проекта по обучению для Института Генплана Москвы [стажировка](https://inkinyam.github.io/internship-pages/) и [ДПО](https://inkinyam.github.io/education/);
+- 🐣 Придумала, сделала и поддерживаю [проект](https://p-automation.ru/) для друзей;
+- Работаю над порталом "[Мой город](https://inkinyam.github.io/gp-moy-gorod/)" в Институте Генплана Москвы
+- 🌱 Сейчас активно изучаю: React, leaflet, GSAP;
 - 🏂 Забавный факт: Я катаюсь на сноуборде 15 лет.
 
 ## Contact me:
