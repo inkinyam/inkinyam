@@ -8,7 +8,8 @@
 <img src="./img/javascript.svg" alt="JS" width = "40"> <img src="./img/html5.svg" alt="HTML5" width = "40"> <img src="./img/bem.svg" alt="bem" width = "40"> <img src="./img/css3.svg" alt="CSS3" width = "40"> <img src="./img/figma.svg" alt="Figma" width = "40"> <img src="./img/webpack.svg" alt="webpack" width = "40"> <img src="./img/react.svg" alt="react" width = "40"> <img src="./img/reactrouter.svg" alt="reactrouter" width = "40"> <img src="./img/mongodb.svg" alt="mongodb" width = "40">
 
 - 📝 Закончила курс "Веб программист" в Яндекс.Практикуме;
-- ⭐ Разработала два проекта по обучению для Института Генплана Москвы [стажировка](https://praktika.genplanmos.ru/) и [ДПО](https://inkinyam.github.io/education/). А еще обновила  [Основной сайт Института](https://genplanmos.ru/);
+- ⭐ Разработала два проекта по обучению для Института Генплана Москвы [стажировка](https://praktika.genplanmos.ru/) и [ДПО](https://inkinyam.github.io/education/)
+- 🏆 Полностью обновила [Основной сайт](https://genplanmos.ru/) Института;
 - 🐣 Придумала, сделала и поддерживаю [проект](https://p-automation.ru/) для друзей;
 - ⚙️ Работаю над порталами "[Ключевые проекты г. Москвы](https://inkinyam.github.io/gp-architect-archive/)" и "Премия института" в Институте Генплана Москвы
 - 🌱 Сейчас изучаю: React, next.js, TypeScript;
