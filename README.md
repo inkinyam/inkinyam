@@ -16,7 +16,7 @@
 
 ## Резюме
 
-<a href='https://spb.hh.ru/resume/c58d4e7bff0df45d390039ed1f4d32587a6f6c' alt='resume'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/640px-HeadHunter_logo.png' width='40' height='40'></>
+<a href='https://spb.hh.ru/resume/c58d4e7bff0df45d390039ed1f4d32587a6f6c' alt='resume'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/HeadHunter_logo.png/640px-HeadHunter_logo.png' width='40' height='40'></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=inkinyam&show_icons=true)
 
